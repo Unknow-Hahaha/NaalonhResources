@@ -1,0 +1,512 @@
+[
+  {
+    "type": "key_hold",
+    "key": "d",
+    "start_time": 0.209563,
+    "duration": 1.232644
+  },
+  {
+    "type": "key_hold",
+    "key": "d",
+    "start_time": 1.65202,
+    "duration": 0.182724
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 0.183578,
+    "duration": 1.976063
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 2.275336,
+    "duration": 0.083083
+  },
+  {
+    "type": "key_hold",
+    "key": "w",
+    "start_time": 1.329065,
+    "duration": 1.20646
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 2.519639,
+    "duration": 0.152043
+  },
+  {
+    "type": "key_hold",
+    "key": "a",
+    "start_time": 2.496263,
+    "duration": 0.602535
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 3.599631,
+    "duration": 0.192005
+  },
+  {
+    "type": "key_hold",
+    "key": "w",
+    "start_time": 3.003689,
+    "duration": 0.840542
+  },
+  {
+    "type": "key_hold",
+    "key": "d",
+    "start_time": 3.704663,
+    "duration": 0.812681
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 4.839506,
+    "duration": 0.208043
+  },
+  {
+    "type": "key_hold",
+    "key": "w",
+    "start_time": 4.246345,
+    "duration": 1.285868
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 6.007512,
+    "duration": 0.224208
+  },
+  {
+    "type": "key_hold",
+    "key": "a",
+    "start_time": 4.765444,
+    "duration": 1.526629
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 7.140702,
+    "duration": 0.09535
+  },
+  {
+    "type": "key_hold",
+    "key": "s",
+    "start_time": 5.921442,
+    "duration": 1.339331
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 7.295427,
+    "duration": 1.984025
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 9.737556,
+    "duration": 0.085385
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 9.87152,
+    "duration": 0.128009
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 10.975488,
+    "duration": 0.095943
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 11.127483,
+    "duration": 0.104083
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 12.087532,
+    "duration": 0.079945
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 12.215469,
+    "duration": 0.095988
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 13.159492,
+    "duration": 0.104106
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 13.335614,
+    "duration": 0.112278
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 14.371814,
+    "duration": 0.085848
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 14.528099,
+    "duration": 2.127301
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 17.347234,
+    "duration": 0.08583
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 17.479385,
+    "duration": 0.096109
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 17.631437,
+    "duration": 0.104021
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 18.567365,
+    "duration": 0.088337
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 18.711378,
+    "duration": 0.096033
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 19.623356,
+    "duration": 0.112136
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 19.783421,
+    "duration": 0.095998
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 20.695461,
+    "duration": 0.103956
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 20.871457,
+    "duration": 0.111949
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 21.959572,
+    "duration": 0.058473
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 22.079418,
+    "duration": 2.00002
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 24.783367,
+    "duration": 0.075551
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 24.871296,
+    "duration": 0.12809
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 25.047325,
+    "duration": 0.112067
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 26.007338,
+    "duration": 0.103994
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 26.167366,
+    "duration": 0.104021
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 27.095249,
+    "duration": 0.096126
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 27.255313,
+    "duration": 0.095964
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 28.215292,
+    "duration": 0.104069
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 28.383268,
+    "duration": 0.104163
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 29.387881,
+    "duration": 0.078799
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 29.535304,
+    "duration": 2.168071
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 32.448581,
+    "duration": 0.104413
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 32.575224,
+    "duration": 0.096132
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 32.759302,
+    "duration": 0.0722
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 33.695144,
+    "duration": 0.096117
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 33.855193,
+    "duration": 0.096057
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 34.791192,
+    "duration": 0.120016
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 34.967203,
+    "duration": 0.104196
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 35.943206,
+    "duration": 0.112061
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 36.119259,
+    "duration": 0.111953
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 37.16049,
+    "duration": 0.101507
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 37.247191,
+    "duration": 2.248272
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 40.322709,
+    "duration": 0.068729
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 40.43117,
+    "duration": 0.112157
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 40.607085,
+    "duration": 0.104068
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 41.559389,
+    "duration": 0.09588
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 41.711159,
+    "duration": 0.103906
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 42.655129,
+    "duration": 0.103982
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 42.815045,
+    "duration": 0.088103
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 43.791126,
+    "duration": 0.128037
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 43.975183,
+    "duration": 0.096196
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 45.026803,
+    "duration": 0.10998
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 45.175378,
+    "duration": 2.295704
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 48.48873,
+    "duration": 0.087458
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 48.622998,
+    "duration": 0.112142
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 48.791103,
+    "duration": 0.11195
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 49.767034,
+    "duration": 0.111959
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 49.935005,
+    "duration": 0.10425
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 50.886926,
+    "duration": 0.112039
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 51.054965,
+    "duration": 0.112077
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 52.030987,
+    "duration": 0.096152
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 52.191044,
+    "duration": 0.111981
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 53.302029,
+    "duration": 0.079796
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.right",
+    "start_time": 53.438997,
+    "duration": 1.976019
+  },
+  {
+    "type": "key_hold",
+    "key": "q",
+    "start_time": 56.100359,
+    "duration": 0.12702
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 56.182914,
+    "duration": 0.120051
+  },
+  {
+    "type": "mouse_hold",
+    "button": "Button.left",
+    "start_time": 56.366917,
+    "duration": 0.127977
+  }
+]
